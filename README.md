@@ -1,4 +1,3 @@
-# introNET6.0-Clase9.Ej1
 Clase 9: Ejercicio 1
 
 1)      Pedir al usuario la longitud de un vector
